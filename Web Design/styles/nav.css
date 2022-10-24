@@ -1,0 +1,17 @@
+
+#navLink {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    border: black solid;
+}
+
+#navLink:hover {
+    background-color: grey;
+    color: blue;
+}
+
+.social {
+    border: black solid;
+}
+
